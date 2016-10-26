@@ -2,7 +2,7 @@
  
 [![](https://jitpack.io/v/czy1121/roundbutton.svg)](https://jitpack.io/#czy1121/roundbutton)
  
-gi   
+可设置圆角背景边框的的按钮   
 
 通过调节色彩明度自动计算按下(pressed)状态颜色
 
