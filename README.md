@@ -1,8 +1,8 @@
-# roundbutton
+# RoundButton
  
 [![](https://jitpack.io/v/czy1121/roundbutton.svg)](https://jitpack.io/#czy1121/roundbutton)
  
-可设置圆角背景边框的的按钮   
+可设置圆角背景边框的的按钮 
 
 通过调节色彩明度自动计算按下(pressed)状态颜色
 
@@ -52,9 +52,9 @@ dependencies {
     <attr name="btnStrokeColor" format="color"/>
     <!-- 边框厚度 -->
     <attr name="btnStrokeWidth" format="dimension"/>
-    <!-- 边框长度 -->
+    <!-- 边框虚线长度 -->
     <attr name="btnStrokeDashWidth" format="dimension"/>
-    <!-- 边框间隙 -->
+    <!-- 边框虚线间隙 -->
     <attr name="btnStrokeDashGap" format="dimension"/>
     <!-- 圆角半径，stadium 表示半径为 min(height,width) / 2-->
     <attr name="btnCornerRadius" format="dimension">
