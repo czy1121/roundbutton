@@ -11,28 +11,28 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton"
             android:text="Text"
             app:btnCornerRadius="10dp"
             app:btnPressedRatio="0.8"
             app:btnSolidColor="#3F51B5"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton"
             android:text="Text"
             app:btnCornerRadius="stadium"
             app:btnPressedRatio="0.8"
             app:btnSolidColor="#9C27B0"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton"
             android:text="Text"
             app:btnCornerRadius="stadium"
             app:btnPressedRatio="0.8"
             app:btnSolidColor="#03A9F4"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton"
             android:enabled="false"
             android:text="Text"
@@ -40,7 +40,7 @@
             app:btnPressedRatio="0.9"
             app:btnSolidColor="#4CAF50"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton"
             android:layout_width="50dp"
             android:layout_height="50dp"
@@ -57,7 +57,7 @@
         android:background="#CDDC39"
         android:orientation="horizontal">
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton.Two"
             android:text="Text"
             android:textColor="#3F51B5"
@@ -65,7 +65,7 @@
             app:btnPressedRatio="1.5"
             app:btnStrokeColor="#3F51B5"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton.Two"
             android:text="Text"
             android:textColor="#9C27B0"
@@ -75,7 +75,7 @@
             app:btnStrokeDashGap="3dp"
             app:btnStrokeDashWidth="6dp"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton.Two"
             android:text="Text"
             android:textColor="#03A9F4"
@@ -83,7 +83,7 @@
             app:btnPressedRatio="0.9"
             app:btnStrokeColor="#03A9F4"/>
 
-        <com.github.czy1121.view.RoundButton
+        <ezy.ui.view.RoundButton
             style="@style/RoundButton.Two"
             android:text="Text"
             android:textColor="#4CAF50"

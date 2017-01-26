@@ -1,6 +1,4 @@
-# RoundButton
- 
-[![](https://jitpack.io/v/czy1121/roundbutton.svg)](https://jitpack.io/#czy1121/roundbutton)
+# RoundButton [![](https://jitpack.io/v/czy1121/roundbutton.svg)](https://jitpack.io/#czy1121/roundbutton)
  
 可设置圆角背景边框的的按钮 
 
@@ -13,12 +11,9 @@
 ``` groovy
 repositories { 
     maven { url "https://jitpack.io" }
-}
-```  
-    
-``` groovy
+} 
 dependencies {
-    compile 'com.github.czy1121:roundbutton:1.0.0'
+    compile 'com.github.czy1121:roundbutton:1.1.0'
 }
 ```
     
@@ -27,13 +22,13 @@ dependencies {
 **XML**
 
 ``` xml
-<com.github.czy1121.view.RoundButton
+<ezy.ui.view.RoundButton
     style="@style/RoundButton"
     android:text="Text"
     app:btnCornerRadius="10dp" 
     app:btnSolidColor="#3F51B5"/>
     
-<com.github.czy1121.view.RoundButton
+<ezy.ui.view.RoundButton
     style="@style/RoundButton.Two"
     android:text="Text"
     android:textColor="#3F51B5"

@@ -1,4 +1,4 @@
-package com.github.czy1121.view;
+package ezy.ui.view;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -11,7 +11,7 @@ import android.util.AttributeSet;
 import android.view.Gravity;
 import android.widget.TextView;
 
-import com.github.czy1121.roundbutton.R;
+import ezy.library.roundbutton.R;
 
 
 public final class RoundButton extends TextView {
